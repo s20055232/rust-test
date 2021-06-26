@@ -1,0 +1,9 @@
+[package]
+name = "guess_game"
+version = "0.1.0"
+edition = "2018"
+authors = ["LAI, LEE-HAN <s20055232@gmail.com>"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.6.0"
